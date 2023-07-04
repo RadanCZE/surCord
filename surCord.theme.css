@@ -1,38 +1,3 @@
-/**
- * @name surCord
- * @author Vozer
- * @version 04.2023
- * @description A Discord theme inspired by Human Design.
- * @source https://github.com/SlippingGitty/surCord/
- * @website https://slippinggitty.github.io/
-*/
-
-/*
-                    'c.          discord@DiscordTheme.local 
-                 ,xNMM.          ----------------------- 
-               .OMMMMo           OS: surCord 09.22 css 
-               OMMM0,            Host: DiscordCanary0,1 
-     .;loddo:' loolloddol;.      Kernel: 0.0.285
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 09 hours, 15 mins 
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 4800 (plugins) 
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: Powercord, BetterDiscord, BeautifulDiscord,
-;MMMMMMMMMMMMMMMMMMMMMMMM:              Goosemod, Stylus 
-:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: ImagineAPlace
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Vozer
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blurple
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Font: San Fransisco Display
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Memory: #7673MiB / 8192MiB 
-    kMMMMMMMMMMMMMMMMMMMMMMd      
-     ;KMMMMMMMWXXWMMMMMMMk.       
-       .cooc,.    .,coo:.       
-*/
-
-/*
-----------Accents---------
-> Only one Accent can be uncommented at a time.
-> Feel free to contribute https://github.com/SlippingGittys-Discord-Themes/surCord/tree/main/src/fixations/additions/ Accents
-*/
-
   @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/blue.css'); 
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/red.css'); */
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/yellow.css'); */
